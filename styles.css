@@ -603,6 +603,7 @@ Members
   margin-top: 5rem;
   text-align: center;
   padding: 1rem 0;
+  padding-bottom: 4rem;
   /* set relative for buttons */
   position: relative;
 }
